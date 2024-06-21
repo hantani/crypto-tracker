@@ -73,6 +73,7 @@ function Coins() {
   //     setLoading(false);
   //   })();
   // }, []);
+  console.log(data);
 
   return (
     <Container>
